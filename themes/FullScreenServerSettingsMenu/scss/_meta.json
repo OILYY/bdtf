@@ -1,0 +1,10 @@
+{
+    "main": {
+        "name": "FullScreenServerSettingsMenu",
+        "description": "A customized full screen look of server settings menu",
+        "author": "Oily",
+        "version": "1.0",
+        "website": "https://OILYY.github.io/",
+        "source": "https://github.com/OILYY/bdtf/tree/master/themes/FullScreenServerSettingsMenu"
+    }
+}
